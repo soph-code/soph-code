@@ -24,6 +24,8 @@ Après une expérience entrepreneuriale en agriculture 🌱, j’ai renforcé me
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?logo=mathworks&logoColor=white)
 
 ### 🤖 Data & IA
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -73,7 +75,7 @@ Après une expérience entrepreneuriale en agriculture 🌱, j’ai renforcé me
   - IA générative & LLM
   - Intégration de l’IA dans des produits
   - MLOps & mise en production
-  - 
+  
 ---
 
 
