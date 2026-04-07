@@ -20,14 +20,14 @@ Après une expérience entrepreneuriale en agriculture 🌱, j’ai renforcé me
 
 ## 🛠️ Stack technique
 
-### 👨‍💻 Langages
+### Langages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?logo=mathworks&logoColor=white)
 
-### 🤖 Data & IA
+### Data & IA
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
@@ -35,7 +35,7 @@ Après une expérience entrepreneuriale en agriculture 🌱, j’ai renforcé me
 ➡️ Machine Learning • Deep Learning • Séries temporelles • Traitement du signal  
 ➡️ IA générative & LLM (montée en compétence active)
 
-### ⚙️ Engineering
+### Engineering
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -45,7 +45,7 @@ Après une expérience entrepreneuriale en agriculture 🌱, j’ai renforcé me
 
 ---
 
-## 🔬 Projets
+## Projets
 
 ### 🧠 Détection d’états cognitifs (EEG) -- 2015-2019
 - Modélisation de signaux biomédicaux par machine learning  
@@ -59,7 +59,7 @@ Après une expérience entrepreneuriale en agriculture 🌱, j’ai renforcé me
 
 ---
 
-## 🔥 Ce que j’apporte
+## Ce que j’apporte
 
 - 🧠 Rigueur analytique et approche scientifique  
 - ⚙️ Capacité à transformer un prototype en solution concrète  
@@ -68,7 +68,7 @@ Après une expérience entrepreneuriale en agriculture 🌱, j’ai renforcé me
 
 ---
 
-## 🌱 En ce moment
+## En ce moment
 
 - Formation Data Scientist (Mines Paris PSL / DataScientest)  
 - Approfondissement :
@@ -79,7 +79,7 @@ Après une expérience entrepreneuriale en agriculture 🌱, j’ai renforcé me
 ---
 
 
-## 🤝 Soft skills
+## Soft skills
 
 - Esprit analytique & rigueur scientifique
 - Autonomie & capacité à mener des projets de bout en bout
@@ -88,7 +88,7 @@ Après une expérience entrepreneuriale en agriculture 🌱, j’ai renforcé me
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 - LinkedIn : https://www.linkedin.com/in/sophie-c-2a91aa7/
 - Email : capron_sophie@yahoo.fr
