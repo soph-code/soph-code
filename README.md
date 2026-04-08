@@ -10,7 +10,7 @@
 
 Je conçois des **solutions d’intelligence artificielle de bout en bout**, de la donnée brute à des modèles intégrés en production.
 
-Avec plus de 10 ans d’expérience en développement logiciel, gestion de produit et machine learning appliqué, j’ai travaillé sur des problématiques complexes, notamment en **analyse de données biomédicales (EEG)** et systèmes temps réel.
+Avec plus de 10 ans d’expérience en développement logiciel, management et machine learning appliqué, j’ai travaillé sur des problématiques complexes, notamment en **analyse de données biomédicales (EEG)** et systèmes temps réel.
 
 Après une expérience entrepreneuriale en agriculture 🌱, j’ai renforcé mes compétences en **data science, deep learning et IA générative**.
 
@@ -57,7 +57,9 @@ Après une expérience entrepreneuriale en agriculture 🌱, j’ai renforcé me
 - PyTorch + Scikit-learn  
 - Visualisation avec Streamlit  
 
-### 🧠 Challenge data ENS - Maladie de Parkinson : Prédire et Corriger les Biais dans l'Évaluation du Score Moteur par Institut du Cerveau -- En cours
+### 🧬 Challenge data ENS - Maladie de Parkinson -- En cours
+- Scikit-learn + XGBoost
+- Visualisation avec Streamlit  
 
 ## Me contacter
 
