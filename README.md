@@ -57,36 +57,7 @@ Après une expérience entrepreneuriale en agriculture 🌱, j’ai renforcé me
 - PyTorch + Scikit-learn  
 - Visualisation avec Streamlit  
 
----
-
-## Ce que j’apporte
-
-- 🧠 Rigueur analytique et approche scientifique  
-- ⚙️ Capacité à transformer un prototype en solution concrète  
-- 🤝 Vision produit et compréhension des besoins métiers  
-- 🚀 Autonomie, pragmatisme et capacité à livrer  
-
----
-
-## En ce moment
-
-- Formation Data Scientist (Mines Paris PSL / DataScientest)  
-- Approfondissement :
-  - IA générative & LLM
-  - Intégration de l’IA dans des produits
-  - MLOps & mise en production
-  
----
-
-
-## Soft skills
-
-- Esprit analytique & rigueur scientifique
-- Autonomie & capacité à mener des projets de bout en bout
-- Travail en équipe pluridisciplinaire
-- Sens du produit et des usages
-
----
+### 🧠 Challenge data ENS - Maladie de Parkinson : Prédire et Corriger les Biais dans l'Évaluation du Score Moteur par Institut du Cerveau -- En cours
 
 ## Me contacter
 
